@@ -83,7 +83,7 @@ This repository demonstrates a smart door monitoring system developed using Rasp
 
 ## Author
 
-Sanjana Tupped
+Sanjana 
 
 GitHub: https://github.com/SanjanaT123
 
